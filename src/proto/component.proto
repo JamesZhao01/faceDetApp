@@ -1,0 +1,13 @@
+syntax = "proto3";
+service Rotate {
+    rpc Rot(Data) returns (Status){}
+}
+
+message Data {
+    int32 angle1 = 1;
+    int32 angle2 = 2;
+}
+
+message Status{
+    string message = 1;
+}
