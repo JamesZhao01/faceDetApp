@@ -15,7 +15,7 @@
     "grpc-web": "^1.0.7",
     "jquery": "^3.4.1",
     "jspb": "0.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "proto": "^1.0.19",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
